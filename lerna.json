@@ -1,6 +1,6 @@
 {
   "version": "10.21.2",
-  "registry": "https://registry.npmjs.org/",
+  "registry": "http://localhost:4873",
   "publishConfig": {
     "access": "public"
   },
