@@ -1,5 +1,5 @@
 {
-  "version": "10.21.2",
+  "version": "10.21.3-test456.0",
   "registry": "http://localhost:4873",
   "publishConfig": {
     "access": "public"
